@@ -1,0 +1,2 @@
+# Neural-Networks-Breast-Cancer-Classification
+This notebook is a guided end-to-end deep learning project for beginners. The notebook contains almost everything in a data science lifecycle, starting from data cleaning, visualization, exploratory data analysis, to building the deep learning model to predict whether or not a certain tumor, given historical data, is benign or malignant. There will be comments every step of the way so there is a clear understanding.
